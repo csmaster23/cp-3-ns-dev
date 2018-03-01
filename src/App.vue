@@ -1,7 +1,15 @@
 <template>
     <div id="app">
-  <app-header></app-header>
-  <router-view/>
+      <app-header></app-header>
+      <router-view/>
+      <br><br><br>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="background-color: gray">
+          <a style="color: white " href="https://github.com/csmaster23/cp-3-ns-dev.git">GitHub</a>
+          </div>
+        </div>
+      </div>
     </div>
 </template>
 
@@ -23,3 +31,4 @@
   margin-top: 60px;
 }
 </style>
+ss
