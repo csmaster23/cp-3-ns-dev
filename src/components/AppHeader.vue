@@ -9,6 +9,7 @@
         
         <router-link to="/">Home</router-link>
         <router-link to="/profile">&nbsp Profile</router-link>
+        <router-link to="/newsfeed">&nbsp Newsfeed</router-link>
 
         </div>
         <div id="login" class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
