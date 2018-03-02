@@ -4,23 +4,25 @@
     <input type="checkbox" id="show-menu" role="button">
     <div class="container">
     <div class="row">
-       
-        <div id="menu" class="col-lg-10 col-md-10 col-sm-10 col-xs-10">
-        
+
+        <div id="menu" class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+
         <router-link to="/">Home</router-link>
-        <router-link to="/profile">&nbsp Profile</router-link>
+
         <router-link to="/newsfeed">&nbsp Newsfeed</router-link>
 
         </div>
-        <div id="login" class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
+
+        <div id="login" class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+            <router-link to="/profile">Profile &nbsp &nbsp </router-link>
             <button type="button" class="btn btn-primary">Login</button>
         </div>
 
     </div>
     <hr>
-    </div>   
+    </div>
     </nav>
-    
+
 </template>
 
 <script>

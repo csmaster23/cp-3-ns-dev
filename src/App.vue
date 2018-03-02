@@ -5,7 +5,7 @@
       <br><br><br>
       <div class="container">
         <div class="row">
-          <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="background-color: gray">
+          <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="background-color: #1E8BFF">
           <a style="color: white " href="https://github.com/csmaster23/cp-3-ns-dev.git">GitHub</a>
           </div>
         </div>
